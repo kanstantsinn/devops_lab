@@ -1,0 +1,18 @@
+PYTHONPATH: /root/.pyenv/versions/3.5.4
+installed_packages:
+- certifi==2017.11.5
+- chardet==3.0.4
+- datefinder==0.6.1
+- idna==2.6
+- python-dateutil==2.6.1
+- pytz==2017.3
+- PyYAML==3.12
+- regex==2016.1.10
+- requests==2.18.4
+- six==1.11.0
+- urllib3==1.22
+name: 3.5.4
+pip_location: /root/.pyenv/versions/3.5.4/bin/pip
+python_execut_location: /root/.pyenv/versions/3.5.4/bin/python
+site_packages: /root/.pyenv/versions/3.5.4/lib/python3.5/site-packages
+version: Python 3.5.4
