@@ -43,6 +43,7 @@ file.write(json.dumps(pulls, indent=1, sort_keys=True))
 file.close()
 '''
 # Basic statisctics about merget/closed rate**************
+# Basic statisctics about merget/closed rate**************
 if option.rate:
 	merged = 0
 	open_pulls = 0
